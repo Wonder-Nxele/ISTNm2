@@ -18,7 +18,7 @@ namespace ISTNM2
 {
     public partial class AddNewEmployee: Form
     {
-        string connectionString = @"Server=146.230.177.46;Database=WstGrp16;User Id=WstGrp16;Password= tdsfs;";
+        string connectionString = @"";
         [DllImport("kernel32.dll")]
         static extern bool AllocConsole();
         public AddNewEmployee()
