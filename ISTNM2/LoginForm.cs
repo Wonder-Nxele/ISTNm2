@@ -14,7 +14,7 @@
     {
         public partial class LoginForm: Form
         {
-            string connectionString = @"Server=146.230.177.46;Database=WstGrp16;User Id=WstGrp16;Password= tdsfs;";
+            string connectionString = @"";
             public LoginForm()
             {
                 InitializeComponent();
